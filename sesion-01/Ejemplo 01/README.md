@@ -6,7 +6,7 @@
 - Tener una cuenta en GitHub.
 
 ## INSTRUCCIONES
-
+HOLA
 1. Abrir la terminal (tener en cuenta que la interfaz puede cambiar dependiendo
    del sistema operativo que tengas).
 
